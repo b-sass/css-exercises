@@ -8,11 +8,11 @@
 }
 
 #blue-text {
-	color: #0000FF;
+	color: rgb(0,0,255);
 	font-size: 36px;
 }
 
 #green-background {
-	background-color: #AAFFAA;
+	background-color: hsl(120, 100%, 80%);
 	font-weight: bold;
 }
